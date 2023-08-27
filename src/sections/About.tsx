@@ -40,16 +40,15 @@ function About() {
           </p>
 
           <p className="about-grid-info-text">
-          I'm persuing a degree in Computer Applications and have completed several projects that showcase 
+          I am persuing a degree in Computer Applications and have completed several projects that showcase 
           my skills in front-end and back-end development. 
           I am excited about the opportunity to contribute to innovative and impactful projects in a dynamic team.
           </p>
           <p className="about-grid-info-text">
-            Here are a few technologies I’ve been working with recently:
+            Here are a few technologies I have been working with recently:
           </p>
           <ul className="about-grid-info-list">
             <li className="about-grid-info-list-item">React</li>
-            {/* <li className="about-grid-info-list-item">React Native</li> */}
             <li className="about-grid-info-list-item">Next.js</li>
             <li className="about-grid-info-list-item">Typescript</li>
             <li className="about-grid-info-list-item">Redux Toolkit</li>
