@@ -1,15 +1,12 @@
 {
   "name": "nextjs-portfolio",
-  "homepage": "https://github.com/SambitAmanta/SambitAmanta.github.io",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "predeploy": "next build",
-    "deploy": "gh-pages -d build"
+    "lint": "next lint"
   },
   "dependencies": {
     "@types/node": "18.14.6",
@@ -26,7 +23,6 @@
     "typescript": "4.9.5"
   },
   "devDependencies": {
-    "gh-pages": "^6.0.0",
     "sass": "^1.59.2"
   }
 }
