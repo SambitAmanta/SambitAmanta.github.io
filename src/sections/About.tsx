@@ -31,7 +31,7 @@ function About() {
             Hello! I am a passionate and driven full stack web developer with experience 
             in building MERN stack applications and proficiency in other web development tools. 
             My interest in web development 
-            sparked in 2020 when I started learning coding from freeCodeCamp Youtube channel.
+            sparked in 2021 when I started learning coding and created a CRUD app.
           </p>
           <p className="about-grid-info-text">
             Fast-forward to today, I specialize in designing and developing
