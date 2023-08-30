@@ -62,7 +62,7 @@ function Navbar() {
             ease: "easeInOut",
           }}
         >
-          <Link href="kishansheth.com">
+          <Link href="sambitamanta.me">
             <Logo />
           </Link>
         </motion.div>
